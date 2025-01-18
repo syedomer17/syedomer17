@@ -59,10 +59,5 @@
 
 <hr />
 
-<h3 align="left">✍ Random Dev Quote:</h3>
-<p align="left">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true)
