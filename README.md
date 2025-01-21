@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/share/15dm4xpa4T/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="30" /></a>
 <a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
 <a href="https://www.linkedin.com/in/syed-omer-ali-b73501324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-<a href=" https://x.com/SyedOmerAl20006?t=mcM8qMa9wFGc_qzdkBBLGw&s=08 " target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" /></a>
+<a href="https://x.com/SyedOmerAl20006" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" /></a>
 </p>
 
 <hr />
