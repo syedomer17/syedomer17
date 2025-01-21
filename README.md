@@ -46,11 +46,6 @@
 
 <hr />
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=syedomer17&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
 <hr />
 
 ### 🔝 Top Contributed Repo
