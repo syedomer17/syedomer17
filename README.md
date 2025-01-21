@@ -19,10 +19,10 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/https://www.facebook.com/share/183Ye9GTKV/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-omer-ali-b73501324" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-<a href="https://x.com/https://x.com/SyedOmerAl20006" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" /></a>
+<a href="https://www.facebook.com/share/15dm4xpa4T/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="30" /></a>
+<a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
+<a href="https://www.linkedin.com/in/syed-omer-ali-b73501324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+<a href=" https://x.com/SyedOmerAl20006?t=mcM8qMa9wFGc_qzdkBBLGw&s=08 " target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" /></a>
 </p>
 
 <hr />
@@ -40,6 +40,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="27" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 
 <hr />
