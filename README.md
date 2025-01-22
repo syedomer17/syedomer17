@@ -50,3 +50,17 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<hr>
+
+### 👥 Let's Build Something Awesome Together!
+
+Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. I'm always looking for new challenges and exciting opportunities to work with like-minded individuals!
+
+<hr>
+
+## 💬 Ask Me Anything
+
+Don't hesitate to ask me about anything related to development, coding challenges, or career advice. I'm happy to help!
+
+Thanks for visiting my profile! 😊
