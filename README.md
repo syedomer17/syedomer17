@@ -10,7 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20views&color=0e75b6&style=flat" alt="syedomer17" /> </p>
 
-<!-- Introduction -->
 <hr />
 
 - 🌱 I’m currently exploring the MERN stack and honing my JavaScript skills.
