@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20views&color=0e75b6&style=flat" alt="syedomer17" /> </p>
 
 <hr />
-
+-  📍 Based in Hyderabad, India 
 - 🌱 I’m currently exploring the MERN stack and honing my JavaScript skills.
 - 💬 Ask me about Artificial Intelligence, Machine Learning, JavaScript, or Full-Stack Development.
 - 📫 How to reach me syedomerali2006@gmail.com
