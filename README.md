@@ -13,7 +13,7 @@
 <hr />
 -  📍 Based in Hyderabad, India <br>
 - 🌱 I’m currently exploring the MERN stack and honing my JavaScript skills. <br>
-- 💬 Ask me about Artificial Intelligence, Machine Learning, JavaScript, or Full-Stack Development. <br>
+- 💬 Ask me about Artificial Intelligence, Machine Learning,or Full-Stack Development. <br>
 - 📫 How to reach me syedomerali2006@gmail.com <br>
 - ⚡ Fun fact: "I'm passionate about solving real-world problems through innovative coding solutions." <br>
 
