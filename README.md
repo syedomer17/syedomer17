@@ -67,4 +67,4 @@ Don't hesitate to ask me about anything related to development, coding challenge
 
 Thanks for visiting my profile! 😊
 
-
+<hr>
