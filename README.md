@@ -3,6 +3,8 @@
 # 💫 About Me:
 "Passionate engineering student specializing in Artificial Intelligence and Machine Learning, with a strong interest in full-stack web development. Currently exploring the MERN stack and honing my skills in JavaScript. Dedicated to solving real-world problems through innovative coding solutions. Always eager to learn, collaborate, and contribute to impactful projects."
 
+
+
 <h3 align="center">An Engineering Student | AIML Enthusiast | Aspiring Full-Stack Developer | MERN Stack Explorer | Building Solutions, One Line of Code at a Time</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
