@@ -58,7 +58,6 @@ Feel free to reach out if you have any questions, ideas, or want to collaborate 
 
 <hr>
 
-
 ## 💬 Ask Me Anything
 
 Don't hesitate to ask me about anything related to development, coding challenges, or career advice. I'm happy to help!
