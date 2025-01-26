@@ -36,7 +36,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
