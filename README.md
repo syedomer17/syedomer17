@@ -42,8 +42,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br>
 
-<br>
-
 <hr>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
