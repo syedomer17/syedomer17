@@ -104,10 +104,11 @@
 ---
 
 ## 💬 **Ask Me Anything**  
-<p align="center">
-  Don't hesitate to ask me about anything related to development, coding challenges, or career advice. <br>
-  I'm happy to help! 😊
-</p>
+💡 **Got questions?** Feel free to ask me about:  
+🔹 **Development** 🖥️  
+🔹 **Coding Challenges** 🧠  
+🔹 **Career Advice** 🎯  
+ <br> **I'm happy to help!** 😊
 
 ---
 
