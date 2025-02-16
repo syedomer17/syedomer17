@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Omer Ali</h1>
 
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%F0%9F%92%A1;Coding+Every+Day+%E2%9C%A8" alt="Typing SVG">
 </p>
