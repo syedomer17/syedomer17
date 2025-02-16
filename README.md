@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Syed Omer Ali</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%F0%9F%92%A1;Coding+Every+Day+%E2%9C%A8" alt="Typing SVG">
-</p>
-
----
+<h1 align="center">
+  <span title="Thanks for visiting!">Hi 👋, I'm Syed Omer Ali</span>
+</h1>
 
 <h3 align="center">
- 🚀 Engineering Student | AI/ML Enthusiast | Full-Stack Developer  
+ 🚀 Engineering Student | AIML Enthusiast | MERN Stack Explorer | Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -22,54 +18,78 @@
   <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="400">
-</p>
+<img align="right" alt="Coding" width="400" 
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+style="transition: transform 0.3s; display: block; margin: auto;" 
+title="Keep Coding!" 
+onmouseover="this.style.transform='scale(1.1)'" 
+onmouseout="this.style.transform='scale(1)'">
+
+### 📍 *About Me*  
+✔ *Based in:* Hyderabad, India  
+✔ *Currently Learning:* MERN Stack, JavaScript  
+✔ *Ask Me About:* AI, ML, Full-Stack Development  
+✔ *How to Reach Me:* [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
+✔ *Fun Fact:* I love solving real-world problems with code!  
 
 ---
 
-## 🌍 **Connect with Me**  
+## 🌐 *Connect with Me*  
 
 <p align="center">
   <a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Follow me on Facebook">
   </a>  
   <a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Follow me on Instagram">
   </a>  
   <a href="https://www.linkedin.com/in/syed-omer-ali-b73501324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect on LinkedIn">
   </a>  
   <a href="https://x.com/SyedOmerAl20006" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" title="Follow me on Twitter">
   </a>  
 </p>
 
 ---
 
-## 💻 **Tech Stack**  
+## 💻 *Tech Stack*  
 
-### **Frontend**  
+### *Frontend*  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
 </p>
 
-### **Backend & Database**  
+### *Backend & Database*  
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL">
+</p>
+
+### *Programming Languages*  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C Language">
+</p>
+
+### *Cloud & DevOps*  
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" title="Digital Ocean">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
 </p>
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 *GitHub Stats*  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true" alt="GitHub Stats"><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
@@ -78,7 +98,7 @@
 
 ---
 
-### 👥 **Let's Build Something Awesome Together!**  
+### 👥 *Let's Build Something Awesome Together!*  
 <p align="center">
   Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
   I'm always looking for new challenges and exciting opportunities to work with like-minded individuals! 🚀
@@ -86,16 +106,16 @@
 
 ---
 
-## 💬 **Ask Me Anything**  
-💡 **Got questions?** Feel free to ask me about:  
-🔹 **Development** 🖥️  
-🔹 **Coding Challenges** 🧠  
-🔹 **Career Advice** 🎯  
-<br> **I'm happy to help!** 😊
+## 💬 *Ask Me Anything*  
+💡 *Got questions?* Feel free to ask me about:  
+🔹 *Development* 🖥  
+🔹 *Coding Challenges* 🧠  
+🔹 *Career Advice* 🎯  
+<br> *I'm happy to help!* 😊
 
 ---
 
-### 🎯 **Thanks for Visiting My Profile!**  
+### 🎯 *Thanks for Visiting My Profile!*  
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
