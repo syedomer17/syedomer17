@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 📍 About Me  
+### 📍 **About Me**  
 ✔️ **Based in:** Hyderabad, India  
 ✔️ **Currently Learning:** MERN Stack, JavaScript  
 ✔️ **Ask Me About:** AI, ML, Full-Stack Development  
@@ -25,26 +25,26 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 **Connect with Me**  
 
 <p align="center">
-<a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>  
-<a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>  
-<a href="https://www.linkedin.com/in/syed-omer-ali-b73501324" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  
-<a href="https://x.com/SyedOmerAl20006" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white">
-</a>  
+  <a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>  
+  <a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>  
+  <a href="https://www.linkedin.com/in/syed-omer-ali-b73501324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
+  <a href="https://x.com/SyedOmerAl20006" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>  
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 **Tech Stack**  
 
 ### **Frontend**  
 <p align="center">
@@ -79,36 +79,34 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 ---
 
-### 🔝 Top Contributed Repos  
+### 🔝 **Top Contributed Repos**  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </p>
 
 ---
 
-### 👥 Let's Build Something Awesome Together!  
+### 👥 **Let's Build Something Awesome Together!**  
 <p align="center">
-Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
-I'm always looking for new challenges and exciting opportunities to work with like-minded individuals! 🚀
+  Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
+  I'm always looking for new challenges and exciting opportunities to work with like-minded individuals! 🚀
 </p>
 
 ---
 
-## 💬 Ask Me Anything  
+## 💬 **Ask Me Anything**  
 <p align="center">
-Don't hesitate to ask me about anything related to development, coding challenges, or career advice. <br>
-I'm happy to help! 😊
+  Don't hesitate to ask me about anything related to development, coding challenges, or career advice. <br>
+  I'm happy to help! 😊
 </p>
 
 ---
