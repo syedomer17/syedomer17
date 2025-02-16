@@ -81,16 +81,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 ---
 
-### 🔝 Top Contributed Repos  
+## 🔝 Top Contributed Repos  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </p>
