@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Syed Omer Ali</h1>
 
-<h3 align="center">🚀 Engineering Student | AIML Enthusiast | MERN Stack Explorer | Full-Stack Developer</h3>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%F0%9F%92%A1;Coding+Every+Day+%E2%9C%A8" alt="Typing SVG">
+</p>
+
+---
+
+<h3 align="center">
+ 🚀 Engineering Student | AI/ML Enthusiast | Full-Stack Developer  
+</h3>
 
 <p align="center">
   Passionate about Artificial Intelligence & Machine Learning, with a strong interest in full-stack development. <br> 
@@ -14,18 +23,13 @@
   <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 📍 **About Me**  
-✔️ **Based in:** Hyderabad, India  
-✔️ **Currently Learning:** MERN Stack, JavaScript  
-✔️ **Ask Me About:** AI, ML, Full-Stack Development  
-✔️ **How to Reach Me:** [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
-✔️ **Fun Fact:** I love solving real-world problems with code!  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="400">
+</p>
 
 ---
 
-## 🌐 **Connect with Me**  
+## 🌍 **Connect with Me**  
 
 <p align="center">
   <a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
@@ -61,36 +65,16 @@
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
-### **Programming Languages**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-</p>
-
-### **Cloud & DevOps**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Ocean-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=radical&hide_border=true" alt="GitHub Stats"><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=radical&hide_border=true" alt="GitHub Streak"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
----
-
-### 🔝 **Top Contributed Repos**  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
@@ -108,7 +92,7 @@
 🔹 **Development** 🖥️  
 🔹 **Coding Challenges** 🧠  
 🔹 **Career Advice** 🎯  
- <br> **I'm happy to help!** 😊
+<br> **I'm happy to help!** 😊
 
 ---
 
