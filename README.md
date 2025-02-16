@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Omer Ali</h1>
 
+
+
 # 💫 About Me:
 "Passionate engineering student specializing in Artificial Intelligence and Machine Learning, with a strong interest in full-stack web development. Currently exploring the MERN stack and honing my skills in JavaScript. Dedicated to solving real-world problems through innovative coding solutions. Always eager to learn, collaborate, and contribute to impactful projects."
 
