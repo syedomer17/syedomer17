@@ -8,7 +8,7 @@
 
 <p align="center">
   Passionate about Artificial Intelligence & Machine Learning, with a strong interest in full-stack development. <br> 
-  Currently exploring the MERN stack and honing my JavaScript skills. <br> 
+  Currently exploring the MERN stack and honing my TypeScript & JavaScript skills. <br> 
   Dedicated to solving real-world problems through innovative coding solutions.
 </p>
 
@@ -27,7 +27,7 @@ onmouseout="this.style.transform='scale(1)'">
 
 ### 📍 *About Me*  
 ✔ *Based in:* Hyderabad, India  
-✔ *Currently Learning:* MERN Stack, JavaScript  
+✔ *Currently Learning:* MERN Stack, TypeScript, JavaScript  
 ✔ *Ask Me About:* AI, ML, Full-Stack Development  
 ✔ *How to Reach Me:* [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 ✔ *Fun Fact:* I love solving real-world problems with code!  
@@ -60,6 +60,7 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
@@ -75,6 +76,8 @@ onmouseout="this.style.transform='scale(1)'">
 
 ### *Programming Languages*  
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C Language">
 </p>
