@@ -25,16 +25,16 @@ title="Keep Coding!"
 onmouseover="this.style.transform='scale(1.1)'" 
 onmouseout="this.style.transform='scale(1)'">
 
-### 📍 *About Me*  
-✔ *Based in:* Hyderabad, India  
-✔ *Currently Learning:* MERN Stack, TypeScript, JavaScript  
-✔ *Ask Me About:* AI, ML, Full-Stack Development  
-✔ *How to Reach Me:* [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
-✔ *Fun Fact:* I love solving real-world problems with code!  
+### 📍 About Me  
+✔ Based in: Hyderabad, India  
+✔ Currently Learning: MERN Stack, TypeScript, JavaScript  
+✔ Ask Me About: AI, ML, Full-Stack Development  
+✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
+✔ Fun Fact: I love solving real-world problems with code!  
 
 ---
 
-## 🌐 *Connect with Me*  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
@@ -53,9 +53,9 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
-## 💻 *Tech Stack*  
+## 💻 Tech Stack  
 
-### *Frontend*  
+### Frontend  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
@@ -66,7 +66,7 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
 </p>
 
-### *Backend & Database*  
+### Backend & Database  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
@@ -74,7 +74,7 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL">
 </p>
 
-### *Programming Languages*  
+### Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
@@ -82,7 +82,7 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C Language">
 </p>
 
-### *Cloud & DevOps*  
+### Cloud & DevOps  
 <p align="center">
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" title="Digital Ocean">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
@@ -92,32 +92,34 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
-## 🌊 *GitHub Stats*  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-
-### 💙 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=syedomer17&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-### 👥 *Let's Build Something Awesome Together!*  
+### 👥 Let's Build Something Awesome Together!  
 <p align="center">
-  Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. 🚀
+  Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
+  I'm always looking for new challenges and exciting opportunities to work with like-minded individuals! 🚀
 </p>
 
 ---
 
-### 🎯 *Thanks for Visiting My Profile!*  
+## 💬 Ask Me Anything  
+💡 Got questions? Feel free to ask me about:  
+🔹 Development 🖥  
+🔹 Coding Challenges 🧠  
+🔹 Career Advice 🎯  
+<br> I'm happy to help! 😊
+
+---
+
+### 🎯 Thanks for Visiting My Profile!  
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
