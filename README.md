@@ -102,6 +102,13 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
+### 💙 Top Contributed Repo  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
 ### 👥 Let's Build Something Awesome Together!  
 <p align="center">
   Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
