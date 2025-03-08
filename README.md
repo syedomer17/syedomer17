@@ -29,6 +29,7 @@ onmouseout="this.style.transform='scale(1)'">
 ✔ Based in: Hyderabad, India  
 ✔ Currently Learning: MERN Stack, TypeScript, JavaScript  
 ✔ Ask Me About: AI, ML, Full-Stack Development  
+✔ Website: [syedomer.xyz](https://syedomer.xyz)  
 ✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 ✔ Fun Fact: I love solving real-world problems with code!  
 
@@ -53,6 +54,19 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
+## 🚀 Featured Projects  
+### 🏋 AI-Powered Personal Trainer  
+🔹 **Tech Stack:** MERN, AI, React Vite  
+🔹 **Description:** AI-based workout planner with personalized training insights.  
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/AI-Powered-Personal-Trainer-MERN) | [🌐 Live Demo](https://workout.syedomer.xyz)  
+
+### 📚 LMS (Learning Management System)  
+🔹 **Tech Stack:** MERN, JWT, Nodemailer  
+🔹 **Description:** A full-featured LMS platform with user authentication and course management.  
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Learning-Management-System) | [🌐 Live Demo](https://lms-demo.com)  
+
+---
+
 ## 💻 Tech Stack  
 
 ### Frontend  
@@ -62,33 +76,14 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
 </p>
 
-### Backend & Database  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL">
-</p>
+---
 
-### Programming Languages  
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C Language">
-</p>
-
-### Cloud & DevOps  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" title="Digital Ocean">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedomer17&theme=darkhub&row=1&column=6"/>
 </p>
 
 ---
@@ -99,18 +94,24 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-</p>
 
 ---
 
-### 💙 Top Contributed Repo  
+## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syedomer17&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedomer17&theme=react-dark" />
 </p>
 
 ---
 
-### 👥 Let's Build Something Awesome Together!  
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/syedomer17/syedomer17/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👥 Let's Build Something Awesome Together!  
 <p align="center">
   Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
   I'm always looking for new challenges and exciting opportunities to work with like-minded individuals! 🚀
