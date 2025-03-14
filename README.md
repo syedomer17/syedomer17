@@ -33,6 +33,7 @@ onmouseout="this.style.transform='scale(1)'">
 ✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 ✔ Fun Fact: I love solving real-world problems with code!  
 ✔ Open Source Contributor: Passionate about contributing to open-source projects 
+
 ✔ Hackathons: Actively participating in hackathons and coding competitions
 
 ---
