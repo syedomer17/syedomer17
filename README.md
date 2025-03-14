@@ -69,8 +69,8 @@ onmouseout="this.style.transform='scale(1)'">
 
 ### 🏡 Real Estate Management System
 
-🔹 Tech Stack: MERN, Tailwind CSS, GSAP
-🔹 Description: A modern property management system for seamless real estate transactions.
+🔹 **Tech Stack:** MERN, Tailwind CSS, GSAP
+🔹** Description:** A modern property management system for seamless real estate transactions.
 🔹 [🔗 GitHub Repo]() | [🌐 Live Demo](https://lms-demo.com)  
 ---
 
