@@ -32,6 +32,8 @@ onmouseout="this.style.transform='scale(1)'">
 ✔ Website: [syedomer.xyz](https://syedomer.xyz)  
 ✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 ✔ Fun Fact: I love solving real-world problems with code!  
+✔ Open Source Contributor: Passionate about contributing to open-source projects
+✔ Hackathons: Actively participating in hackathons and coding competitions
 
 ---
 
@@ -65,6 +67,11 @@ onmouseout="this.style.transform='scale(1)'">
 🔹 **Description:** A full-featured LMS platform with user authentication and course management.  
 🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Learning-Management-System) | [🌐 Live Demo](https://lms-demo.com)  
 
+### 🏡 Real Estate Management System
+
+🔹 Tech Stack: MERN, Tailwind CSS, GSAP
+🔹 Description: A modern property management system for seamless real estate transactions.
+🔹 [🔗 GitHub Repo]() | [🌐 Live Demo](https://lms-demo.com)  
 ---
 
 ## 💻 Tech Stack  
