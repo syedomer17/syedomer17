@@ -1,4 +1,4 @@
-<h1 align="center">
+h1 align="center">
   <span title="Thanks for visiting!">Hi 👋, I'm Syed Omer Ali</span>
 </h1>
 
