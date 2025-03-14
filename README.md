@@ -67,11 +67,6 @@ onmouseout="this.style.transform='scale(1)'">
 🔹 **Description:** A full-featured LMS platform with user authentication and course management.  
 🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Learning-Management-System) | [🌐 Live Demo](https://lms-demo.com)  
 
-### 🏡 Real Estate Management System
-
-🔹 **Tech Stack:** MERN, Tailwind CSS, GSAP
-🔹** Description:** A modern property management system for seamless real estate transactions.
-🔹 [🔗 GitHub Repo]() | [🌐 Live Demo](https://lms-demo.com)  
 ---
 
 ## 💻 Tech Stack  
