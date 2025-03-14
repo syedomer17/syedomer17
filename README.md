@@ -15,8 +15,7 @@
 ---
 
 <p align="center">
-  <img src="(https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20Views&color=0e75b6&style=flat-square)"
-alt="Profile Views"
+  <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" 
