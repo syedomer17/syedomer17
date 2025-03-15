@@ -28,12 +28,19 @@ onmouseout="this.style.transform='scale(1)'">
 
 ### 📍 About Me  
 ✔ Based in: Hyderabad, India  
+
 ✔ Currently Learning: MERN Stack, TypeScript, JavaScript  
-✔ Ask Me About: AI, ML, Full-Stack Development  
+
+✔ Ask Me About: AI, ML, Full-Stack Development 
+
 ✔ Website: [syedomer.xyz](https://syedomer.xyz)  
+
 ✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
+
 ✔ Fun Fact: I love solving real-world problems with code!  
+
 ✔ Open Source Contributor: Passionate about contributing to open-source projects 
+
 ✔ Hackathons: Actively participating in hackathons and coding competitions
 
 ---
