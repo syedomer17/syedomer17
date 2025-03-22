@@ -77,7 +77,6 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
----
 
 ### 🛠 Tech Stack  
 
