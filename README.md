@@ -4,9 +4,7 @@
 
 ---
 
-<h1 align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about coding & problem-solving | AIML Enthusiast 
-</h1>
+<h3 align="center">  Engineering Student | AIML Enthusiast I MERN Stack Explorer | Full-Stack Developer </h3>
 
 <p align="center">
   Passionate about Artificial Intelligence & Machine Learning, with a strong interest in full-stack development. <br> 
