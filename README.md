@@ -2,15 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Heyya,+I'm+Syed+Omer+Ali;MERN+Stack+Developer;Passionate+Developer!">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about coding & problem-solving | AIML Enthusiast 
-</p>
-
 ---
+
+<h1 align="center">
+  🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about coding & problem-solving | AIML Enthusiast 
+</h1>
 
 <p align="center">
   Passionate about Artificial Intelligence & Machine Learning, with a strong interest in full-stack development. <br> 
