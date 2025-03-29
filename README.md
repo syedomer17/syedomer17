@@ -36,7 +36,7 @@ onmouseout="this.style.transform='scale(1)'">
 
 ✔ How to Reach Me: [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 
-✔ Fun Fact: I love solving real-world problems with code!  
+✔ Fun Fact: I love solving real-world problems with code! and I use to love JavaScript 
 
 ✔ Open Source Contributor: Passionate about contributing to open-source projects 
 
