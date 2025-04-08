@@ -13,8 +13,16 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="syedomer17" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/syedomer17" target="_blank">
+    <img src="https://img.shields.io/github/followers/syedomer17?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/syedomer17" target="_blank">
+    <img src="https://img.shields.io/github/stars/syedomer17?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 <img align="right" alt="Coding" width="400" 
@@ -114,6 +122,9 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
+
+---
 
 ### 🎯 Thanks for Visiting My Profile!  
 <p align="center">
