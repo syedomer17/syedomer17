@@ -10,7 +10,6 @@
   Dedicated to solving real-world problems through innovative coding solutions.
 </p>
 
-
 ---
 
 <p align="center">
