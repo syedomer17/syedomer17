@@ -112,6 +112,10 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+--'
+
 ## 👥 Let's Build Something Awesome Together!  
 <p align="center">
   Feel free to reach out if you have any questions, ideas, or want to collaborate on a project. <br>
