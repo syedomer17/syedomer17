@@ -12,6 +12,13 @@
 
 ---
 
+### What I'm up to
+- Learning advanced **React.js** **TypeScript** **Next.js** **Nest.js** and **React Native**
+- Building full-stack projects with **Prisma + MySQL**
+- Exploring **Backend Architecture** and **System Design**
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syedomer17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="syedomer17" />
 </p>
