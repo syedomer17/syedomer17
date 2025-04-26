@@ -4,10 +4,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Syed+Omer+Ali;Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Love+to+code+and+build+cool+things!)](https://git.io/typing-svg)
-
----
-
 <h3 align="center"> AIML Enthusiast | 🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about Coding & Problem-Solving </h3>
 
 <p align="center">
