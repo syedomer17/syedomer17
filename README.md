@@ -3,7 +3,6 @@
 </h1>
 
 
-
 <h3 align="center"> AIML Enthusiast | 🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about Coding & Problem-Solving </h3>
 
 <p align="center">
