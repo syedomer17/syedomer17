@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Syed+Omer+Ali;MERN+Stack+Developer;Passionate+Developer!" alt="Typing SVG">
 </h1>
-
 <h3 align="center"> AIML Enthusiast | 🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about Coding & Problem-Solving </h3>
 
 <p align="center">
