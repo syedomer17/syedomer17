@@ -9,6 +9,7 @@
   Currently exploring the MERN stack while honing my TypeScript & JavaScript skills. <br>
   Dedicated to solving real-world problems through innovative coding solutions.
 </p>
+
 ---
 
 ### What I'm up to
