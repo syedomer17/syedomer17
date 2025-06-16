@@ -101,9 +101,7 @@ onmouseout="this.style.transform='scale(1)'">
   <img src="https://github-readme-stats.vercel.app/api?username=syedomer17&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedomer17&theme=dark&hide_border=false"/><br/>
  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=dark&hide_border=false" 
-    alt="Top Langs" 
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=dark&hide_border=false"/>
 </p>
 
 ---
