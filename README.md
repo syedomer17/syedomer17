@@ -53,26 +53,16 @@ onmouseout="this.style.transform='scale(1)'">
 
 ## 🌐 Connect with Me
   
-<p align="center">
-<a href="mailto:syedomerali2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me an email">
-  </a>
- <a href="https://www.linkedin.com/in/syed-omer-ali-b73501324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect on LinkedIn">
-  </a> 
- <a href="https://x.com/SyedOmerAl20006" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" title="Follow me on Twitter">
-  </a>  
-<a href="https://buymeacoffee.com/SyedOmerAli" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title="Buy me a coffee">
-  </a>
-  <a href="https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Follow me on Instagram">
-  </a> 
- <a href="https://www.facebook.com/share/15dm4xpa4T/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Follow me on Facebook">
-  </a>   
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedomerali2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-omer-ali-b73501324)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SyedOmerAl20006)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syedomer934/profilecard/?igsh=bGxqaGcxOXZ1NXg2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15dm4xpa4T/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SyedOmerAli)
+
+</div>
 
 ---
 
