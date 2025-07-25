@@ -42,7 +42,7 @@ onmouseout="this.style.transform='scale(1)'">
 ### 📍 About Me  
 - *Location:* Hyderabad, India  
 - *Currently Learning:* Next.js, DevOps, System Design 
-- *Ask Me About:* AI, ML, Full-Stack Development  
+- *Ask Me About:* Full-Stack Development, Next.js,TypeScript 
 - *Website:* [syedomer.xyz](https://syedomer.xyz)  
 - *Contact:* [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
 - *Fun Fact:* I love solving real-world problems with code—and I love JavaScript!  
