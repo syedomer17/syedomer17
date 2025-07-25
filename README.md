@@ -41,7 +41,7 @@ onmouseout="this.style.transform='scale(1)'">
 
 ### 📍 About Me  
 - *Location:* Hyderabad, India  
-- *Currently Learning:* MERN Stack, TypeScript, JavaScript  
+- *Currently Learning:* Next.js, DevOps, System Design 
 - *Ask Me About:* AI, ML, Full-Stack Development  
 - *Website:* [syedomer.xyz](https://syedomer.xyz)  
 - *Contact:* [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)  
