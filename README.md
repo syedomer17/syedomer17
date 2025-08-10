@@ -68,14 +68,24 @@ onmouseout="this.style.transform='scale(1)'">
 
 ## 🚀 Featured Projects  
 ### 🏋 AI-Powered Personal Trainer  
-🔹 **Tech Stack:** MERN, AI, React Vite  
+🔹 **Tech Stack:** Next.js, TypeScript, Shardcn ui, TailwindCSS, Auth.js 
 🔹 **Description:** AI-based workout planner with personalized training insights.  
-🔹 [🔗 GitHub Repo](https://github.com/syedomer17/AI-Powered-Personal-Trainer-MERN) | [🌐 Live Demo](https://workout.syedomer.xyz)  
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Next.js-AI-fitness-App)
 
-### 📚 LMS (Learning Management System)  
-🔹 **Tech Stack:** MERN, JWT, Nodemailer  
-🔹 **Description:** A full-featured LMS platform with user authentication and course management.  
-🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Learning-Management-System) | [🌐 Live Demo](https://lms-demo.com)  
+### 📄 AI Resume App 
+🔹 **Tech Stack:**   Next.js, TypeScript, Shardcn ui, TailwindCSS, Auth.js, framer-motion, gsap
+🔹 **Description:** An intelligent and beautiful resume builder powered by AI.  
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/AI-powered-resume)
+
+### 🔍 GitHub Gist Explorer
+🔹 **Tech Stack:**   Next.js, TypeScript, Shardcn ui, TailwindCSS, Auth.js, framer-motion
+🔹 **Description:** A powerful and modern GitHub Gist search and management application.
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Next.js-gist-search)
+
+### 🌐 Nginx Config Generator
+🔹 **Tech Stack:**   Next.js, TypeScript, TailwindCSS, Framer Motion
+🔹 **Description:** A beautiful Next.js application to generate Nginx server configuration for your domain and port.
+🔹 [🔗 GitHub Repo](https://github.com/syedomer17/Next.js-nginx-config-generator)
 
 ---
 
