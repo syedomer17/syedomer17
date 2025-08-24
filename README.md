@@ -94,10 +94,10 @@ onmouseout="this.style.transform='scale(1)'">
 
 | **Area**                  | **Technologies**                                                                 |
 |----------------------------|-----------------------------------------------------------------------------------|
-| **Frontend**              | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap        |
+| **Frontend**              | HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap        |
 | **UI Libraries**          | shadcn/ui, MUI, Chakra UI                                                          |
 | **Backend**               | Node.js, Express.js, NestJS, Fastify, MongoDB, MySQL, PostgreSQL, PrismaDB           |
-| **DevOps & Cloud**        | Linux, Docker, DigitalOcean, Nginx, SSL, Domains, Droplets, Virtual Machines (VMs) |
+| **DevOps & Cloud**        | Linux, Docker, DigitalOcean, Nginx, SSL, Domains, Droplets, Virtual Machines (VMs), Bash |
 | **Tools**                 | Git, GitHub, Postman, VS Code                                                      |
 | **Programming Languages** | JavaScript, TypeScript, Python, C   
 
