@@ -27,9 +27,6 @@
   <a href="https://github.com/syedomer17" target="_blank">
     <img src="https://img.shields.io/github/followers/syedomer17?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/syedomer17" target="_blank">
-    <img src="https://img.shields.io/github/stars/syedomer17?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-  </a>
 </p>
 
 <img align="right" alt="Coding" width="400" 
