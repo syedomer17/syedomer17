@@ -117,6 +117,15 @@ onmouseout="this.style.transform='scale(1)'">
 
 ---
 
+## 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake.svg">
+</picture>
+
+---
+
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; padding: 30px; background: linear-gradient(145deg, #4b4b4b, #1e1e1e); border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); transform: scale(1); transition: transform 0.3s ease;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" style="width: 100%; max-width: 900px; border-radius: 15px; transition: transform 0.3s ease;">
 </div>
