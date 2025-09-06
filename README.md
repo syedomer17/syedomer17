@@ -21,7 +21,7 @@
 ## 📋 Table of Contents
 - [About Me](#-about-me)
 - [What I'm Learning](#what-im-up-to)
-- [Tech Stack](#-tech-stack--expertise)
+- [Tech Stack](#tech-stack--expertise)
 - [Featured Projects](#-featured-projects)
 - [GitHub Analytics](#-github-analytics--performance)
 - [Achievements](#-achievements--highlights)
