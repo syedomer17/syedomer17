@@ -21,7 +21,7 @@
 ## 📋 Table of Contents
 - [About Me](#-about-me)
 - [What I'm Learning](#what-im-up-to)
-- [Tech Stack](#-tech-stack--expertise)
+- [Tech Stack](#tech-stack--expertise)
 - [Featured Projects](#-featured-projects)
 - [GitHub Analytics](#-github-analytics--performance)
 - [Achievements](#-achievements--highlights)
@@ -142,57 +142,32 @@ onmouseout="this.style.transform='scale(1)'">
 ---
 
 
-### 🛠 Tech Stack & Expertise
+## Tech Stack & Expertise
 
-<div align="center">
-
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-#### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-| **Category**              | **Technologies & Skill Level**                                           |
-|---------------------------|---------------------------------------------------------------------------|
-| **Frontend**              | React ⭐⭐⭐⭐⭐, Next.js ⭐⭐⭐⭐⭐, TypeScript ⭐⭐⭐⭐⭐         |
-| **UI/UX Libraries**       | Shadcn/ui ⭐⭐⭐⭐⭐, TailwindCSS ⭐⭐⭐⭐⭐, MUI ⭐⭐⭐⭐       |
-| **Backend**               | Node.js ⭐⭐⭐⭐⭐, Express.js ⭐⭐⭐⭐, NestJS ⭐⭐⭐⭐           |
-| **Database**              | MongoDB ⭐⭐⭐⭐, MySQL ⭐⭐⭐⭐, Prisma ⭐⭐⭐⭐⭐               |
-| **DevOps**                | Docker ⭐⭐⭐, Linux ⭐⭐⭐⭐, Nginx ⭐⭐⭐⭐                    |
-| **Languages**             | JavaScript/TypeScript ⭐⭐⭐⭐⭐, Python ⭐⭐⭐, C ⭐⭐⭐        |   
+| **Category** | **Technologies** | **Skill Level** |
+|--------------|------------------|-----------------|
+| **Languages** | JavaScript, TypeScript | Expert |
+| **Languages** | Python | Intermediate |
+| **Languages** | C | Intermediate |
+| **Frontend** | React, Next.js | Expert |
+| **Frontend** | HTML5, CSS3 | Expert |
+| **UI/UX Libraries** | Shadcn/ui, TailwindCSS | Expert |
+| **UI/UX Libraries** | MUI | Advanced |
+| **Backend** | Node.js | Expert |
+| **Backend** | Express.js | Advanced |
+| **Backend** | NestJS | Advanced |
+| **Backend** | Fastify | Intermediate |
+| **Database** | MongoDB | Advanced |
+| **Database** | MySQL | Advanced |
+| **Database** | PostgreSQL | Intermediate |
+| **Database** | Prisma | Expert |
+| **DevOps & Cloud** | Docker | Intermediate |
+| **DevOps & Cloud** | DigitalOcean | Intermediate |
+| **DevOps & Cloud** | Nginx | Advanced |
+| **DevOps & Cloud** | Linux | Advanced |
+| **Tools** | Git, GitHub | Expert |
+| **Tools** | VS Code | Expert |
+| **Tools** | Postman | Advanced |   
 
 ---
 
