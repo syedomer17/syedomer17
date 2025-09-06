@@ -21,15 +21,17 @@
 ## 📋 Table of Contents
 - [About Me](#-about-me)
 - [What I'm Learning](#what-im-up-to)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#-tech-stack--expertise)
 - [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
+- [GitHub Analytics](#-github-analytics--performance)
+- [Achievements](#-achievements--highlights)
+- [Open Source](#-open-source--contributions)
 - [Connect With Me](#-connect-with-me)
 - [Let's Collaborate](#-lets-build-something-awesome-together)
 
 ---
 
-## What I'm up to
+## 🚀 What I'm up to
 - 🔥 Learning advanced **React.js**, **TypeScript**, **Next.js**, **Nest.js** and **React Native**
 - 🗄️ Building full-stack projects with **Prisma + MySQL**
 - 🏗️ Exploring **Backend Architecture** and **System Design**
