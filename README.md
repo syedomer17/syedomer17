@@ -24,6 +24,7 @@
 - [Tech Stack](#tech-stack--expertise)
 - [Featured Projects](#-featured-projects)
 - [GitHub Analytics](#-github-analytics--performance)
+- [GitHub Snake](#-github-contribution-snake)
 - [Achievements](#-achievements--highlights)
 - [Open Source](#-open-source--contributions)
 - [Connect With Me](#-connect-with-me)
@@ -209,11 +210,50 @@ onmouseout="this.style.transform='scale(1)'">
 ---
 
 ## 🐍 GitHub Contribution Snake
-<picture>
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  
+### 🎮 Classic Snake Animation
+<picture style="border-radius: 15px; overflow: hidden; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake.svg" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 </picture>
+
+### 🌊 Ocean Theme
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/ocean.gif" alt="Ocean themed snake eating contributions" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+### 🕹️ Retro Terminal Style
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake-retro.svg" alt="Retro terminal style snake" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+### 💫 Neon Cyberpunk
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake-neon.svg" alt="Neon cyberpunk style snake" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+### 🔢 Matrix Code Style
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/github-snake-matrix.svg" alt="Matrix code style snake" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+<details style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px; backdrop-filter: blur(10px);">
+<summary style="cursor: pointer; font-weight: bold; padding: 10px; border-radius: 8px; background: rgba(255,255,255,0.2); transition: all 0.3s ease;">🎨 <strong>More Snake Variations</strong> (Click to expand)</summary>
+<br>
+
+### 🌈 Rainbow Matrix
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/rainbow.gif" alt="Rainbow matrix style snake" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+### 💻 Green Matrix Animation
+<img src="https://raw.githubusercontent.com/syedomer17/syedomer17/output/matrix.gif" alt="Green matrix style animated snake" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+
+</details>
+
+<br>
+
+<div style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
+<p style="margin: 0; font-size: 16px; color: #fff; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+🎯 <strong>The snake eats my GitHub contributions and grows based on my coding activity!</strong><br>
+Each color represents different contribution levels throughout the year. Watch it grow as I code more! 🚀
+</p>
+</div>
+
+</div>
 
 ---
 

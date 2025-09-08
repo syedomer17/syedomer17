@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+name: Generate GitHub Snake Animations 🐍
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -6,6 +6,12 @@ on:
     - cron: "0 0 * * *"
   # Allow manual triggering of the workflow
   workflow_dispatch:
+    inputs:
+      generate_extra_themes:
+        description: 'Generate extra themed snakes'
+        required: false
+        default: 'true'
+        type: boolean
   # Trigger the workflow on pushes to the main branch
   push:
     branches:
@@ -28,7 +34,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-retro.svg?color_snake=#00ff00&color_dots=#3f3f3f,#4f4f4f,#6f6f6f,#8f8f8f,#afaf00
+            dist/github-snake-neon.svg?color_snake=#ff006e&color_dots=#0f0f23,#2d2d6a,#5b5ba1,#8a8ad8,#b9b9ff
+            dist/github-snake-matrix.svg?color_snake=#00ff41&color_dots=#001100,#003300,#005500,#007700,#009900
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/rainbow.gif?color_snake=#ff0080&color_dots=#440044,#660066,#880088,#aa00aa,#cc00cc
+            dist/matrix.gif?color_snake=#00ff41&color_dots=#001100,#003300,#005500,#007700,#009900
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
