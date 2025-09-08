@@ -144,30 +144,14 @@ onmouseout="this.style.transform='scale(1)'">
 
 ## Tech Stack & Expertise
 
-| **Category** | **Technologies** | **Skill Level** |
-|--------------|------------------|-----------------|
-| **Languages** | JavaScript, TypeScript | Expert |
-| **Languages** | Python | Intermediate |
-| **Languages** | C | Intermediate |
-| **Frontend** | React, Next.js | Expert |
-| **Frontend** | HTML5, CSS3 | Expert |
-| **UI/UX Libraries** | Shadcn/ui, TailwindCSS | Expert |
-| **UI/UX Libraries** | MUI | Advanced |
-| **Backend** | Node.js | Expert |
-| **Backend** | Express.js | Advanced |
-| **Backend** | NestJS | Advanced |
-| **Backend** | Fastify | Intermediate |
-| **Database** | MongoDB | Advanced |
-| **Database** | MySQL | Advanced |
-| **Database** | PostgreSQL | Intermediate |
-| **Database** | Prisma | Expert |
-| **DevOps & Cloud** | Docker | Intermediate |
-| **DevOps & Cloud** | DigitalOcean | Intermediate |
-| **DevOps & Cloud** | Nginx | Advanced |
-| **DevOps & Cloud** | Linux | Advanced |
-| **Tools** | Git, GitHub | Expert |
-| **Tools** | VS Code | Expert |
-| **Tools** | Postman | Advanced |   
+| **Area**                  | **Technologies**                                                                 |
+|----------------------------|-----------------------------------------------------------------------------------|
+| **Frontend**              | HTML5, CSS3, React, Next.js, TailwindCSS, Bootstrap        |
+| **UI Libraries**          | shadcn/ui, MUI, Chakra UI                                                          |
+| **Backend**               | Node.js, Express.js, NestJS, Fastify, MongoDB, MySQL, PostgreSQL, PrismaDB           |
+| **DevOps & Cloud**        | Linux, Docker, DigitalOcean, Nginx, Virtual Machines (VMs), Bash |
+| **Tools**                 | Git, GitHub, Postman, VS Code                                                      |
+| **Programming Languages** | JavaScript, TypeScript, Python, C    
 
 ---
 
