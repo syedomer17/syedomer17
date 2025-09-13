@@ -90,7 +90,7 @@ onmouseout="this.style.transform='scale(1)'">
 ### 🏋️‍♂️ AI-Powered Personal Trainer  
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Next.js-13+-black" />
+  <img src="https://img.shields.io/badge/Next.js-15+-black" />
   <img src="https://img.shields.io/badge/TypeScript-5.0+-blue" />
 </div>
 
@@ -104,7 +104,7 @@ onmouseout="this.style.transform='scale(1)'">
 ### 📄 AI Resume Builder 
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Next.js-13+-black" />
+  <img src="https://img.shields.io/badge/Next.js-15+-black" />
   <img src="https://img.shields.io/badge/AI%20Powered-OpenAI-green" />
 </div>
 
