@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20Python-red" />
 </p>
 
+
 <p align="center">
   Passionate about Artificial Intelligence & Machine Learning from Methodist College of Engineering and Technology, with a strong interest in full-stack development. <br>
   Currently exploring the MERN stack while honing my TypeScript & JavaScript skills. <br>
