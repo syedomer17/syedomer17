@@ -4,7 +4,6 @@
 
 <h3 align="center"> AIML Enthusiast | 🚀 Full-Stack Developer | 💻 MERN Stack | 🔥 Passionate about Coding & Problem-Solving </h3>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Hyderabad,%20India-blue" />
