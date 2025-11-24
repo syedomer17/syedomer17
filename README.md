@@ -72,7 +72,7 @@ Generate Nginx server configurations for your domain and port with validation.
     </td>
     <td align="center" style="padding: 20px;">
       <img 
-        src="/mnt/data/ad31bdbe-f2d3-46d9-a932-29772acc84c7.png"
+        src="https://nirzak-streak-stats.vercel.app/?user=muzammil-mz&theme=dark&hide_border=true"
         alt="GitHub Streak"
         style="max-width: 430px; border-radius: 14px; margin-bottom: 25px;"
       />
