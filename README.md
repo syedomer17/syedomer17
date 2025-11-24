@@ -163,7 +163,7 @@ onmouseout="this.style.transform='scale(1)'">
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=syedomer17&theme=merko&hide_border=false"/>
 
 ### 💻 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=pie&theme=midnight-purple&hide_border=true)
 
 ### 📈 Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedomer17&theme=react-dark&hide_border=true"/>
