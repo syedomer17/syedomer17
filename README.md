@@ -62,21 +62,20 @@ Generate Nginx server configurations for your domain and port with validation.
 
 <table>
   <tr>
-    <!-- LEFT: PIE CHART -->
-    <td align="center" style="padding: 20px;">
+    <!-- LEFT: TOP LANGS (Compact Professional Version) -->
+    <td align="center" style="padding: 20px; vertical-align: top;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=pie&theme=midnight-purple&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=compact&theme=tokyonight&hide_border=true"
         alt="Top Languages"
-        style="padding: 18px; border-radius: 18px; background: #0d0d0d; max-width: 350px;"
+        style="max-width: 380px; border-radius: 12px;"
       />
     </td>
     <td align="center" style="padding: 20px;">
       <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=muzammil-mz&theme=dark&hide_border=true"
+        src="https://nirzak-streak-stats.vercel.app/?user=syedomer17&theme=dark&hide_border=true"
         alt="GitHub Streak"
         style="max-width: 430px; border-radius: 14px; margin-bottom: 25px;"
       />
-      <!-- GitHub Stats -->
       <img 
         src="https://github-readme-stats.vercel.app/api?username=syedomer17&show_icons=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
@@ -85,10 +84,6 @@ Generate Nginx server configurations for your domain and port with validation.
     </td>
   </tr>
 </table>
-
-
-
-
 
 ---
 
