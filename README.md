@@ -1,6 +1,6 @@
 # Syed Omer Ali
 
-** Full-Stack Developer | AI/ML Enthusiast | DevSecOps **
+**Full-Stack Developer | AI/ML Enthusiast | DevSecOps**
 
 📍 Hyderabad, India | 📧 [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)
 
