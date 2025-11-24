@@ -17,9 +17,9 @@ Full-Stack Developer from Hyderabad, India, passionate about building innovative
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, NestJS, Prisma |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **DevOps & Tools** | Docker, Linux, Nginx, Git |
+| **Backend** | Node.js, Express.js, NestJS, Fastify |
+| **Databases** | MongoDB, MySQL, PostgreSQL, PrismaDB |
+| **DevOps & Tools** | Docker, kubernetes, jenkins, GitHub Actions Linux, Nginx, Git, GitHub, Anisable, Maven, |
 | **Languages** | JavaScript, TypeScript, Python, C |
 
 ---
@@ -61,9 +61,32 @@ Generate Nginx server configurations for your domain and port with validation.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syedomer17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=syedomer17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    style="max-width: 420px; margin-bottom: 25px;"
+  />
+
+  <!-- Languages Pie Chart -->
+  <div style="margin-top: 10px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=pie&theme=midnight-purple&hide_border=true"
+      alt="Top Languages"
+      style="
+        padding: 18px;
+        margin-top: 20px;
+        border-radius: 18px;
+        background: #0d0d0d;
+        display: inline-block;
+        max-width: 360px;
+      "
+    />
+  </div>
+
 </div>
+
 
 ---
 
@@ -71,8 +94,8 @@ Generate Nginx server configurations for your domain and port with validation.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedomer.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-omer-ali-b73501324)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedomer.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedomer17)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SyedOmerAl20006)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedomerali2006@gmail.com)
 
