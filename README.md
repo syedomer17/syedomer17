@@ -60,32 +60,34 @@ Generate Nginx server configurations for your domain and port with validation.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <!-- LEFT: PIE CHART -->
+    <td align="center" style="padding: 20px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=pie&theme=midnight-purple&hide_border=true"
+        alt="Top Languages"
+        style="padding: 18px; border-radius: 18px; background: #0d0d0d; max-width: 350px;"
+      />
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img 
+        src="/mnt/data/ad31bdbe-f2d3-46d9-a932-29772acc84c7.png"
+        alt="GitHub Streak"
+        style="max-width: 430px; border-radius: 14px; margin-bottom: 25px;"
+      />
+      <!-- GitHub Stats -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=syedomer17&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+        style="max-width: 430px;"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=syedomer17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    style="max-width: 420px; margin-bottom: 25px;"
-  />
 
-  <!-- Languages Pie Chart -->
-  <div style="margin-top: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedomer17&layout=pie&theme=midnight-purple&hide_border=true"
-      alt="Top Languages"
-      style="
-        padding: 18px;
-        margin-top: 20px;
-        border-radius: 18px;
-        background: #0d0d0d;
-        display: inline-block;
-        max-width: 360px;
-      "
-    />
-  </div>
 
-</div>
 
 
 ---
