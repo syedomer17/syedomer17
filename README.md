@@ -84,7 +84,6 @@ Generate Nginx server configurations for your domain and port with validation.
   </tr>
 </table>
 
-
 ---
 
 ## 🤝 Connect with Me
