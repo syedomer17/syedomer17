@@ -51,6 +51,21 @@ Modern GitHub Gist search and management application with advanced filtering.
 **Tech Stack:** Next.js, TypeScript, Shadcn/ui, TailwindCSS, Auth.js  
 **Features:** Advanced search, syntax highlighting, responsive design
 
+### 💰 [Expense Tracker App](https://github.com/syedomer17/Expense-Tracker-App)
+A comprehensive expense tracking application to manage finances with receipt scanning and PDF exports.  
+**Tech Stack:** React, Node.js, Express, MongoDB, TailwindCSS, Shadcn/ui  
+**Features:** Expense tracking, receipt uploads, PDF export, analytics dashboard
+
+### 🎤 [AI Interview App](https://github.com/syedomer17/AI-Interview-App)
+AI-powered mock interview platform with real-time feedback and performance analysis.  
+**Tech Stack:** Next.js, TypeScript, TailwindCSS, AI Integration  
+**Features:** Mock interviews, real-time feedback, performance tracking
+
+### 🤖 [Automated GitHub Pull Request Review Agent](https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent)
+Intelligent multi-agent system for automated code reviews using Google Gemini.  
+**Tech Stack:** React, Node.js, TypeScript, MongoDB, Google Gemini API  
+**Features:** Automated diff analysis, security & performance checks, interactive dashboard
+
 ### 🌐 [Nginx Config Generator](https://github.com/syedomer17/Next.js-nginx-config-generator)
 Generate Nginx server configurations for your domain and port with validation.  
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, Framer Motion  
