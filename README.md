@@ -1,14 +1,21 @@
-# Syed Omer Ali
+# 👋 Hey, I'm **Syed Omer Ali**
 
-**Full-Stack Developer | AI/ML Enthusiast | DevSecOps**
+**Full-Stack Developer • DevOps Learner • AI/ML Explorer**  
+I build scalable web applications, automate workflows, and experiment with intelligent systems.  
+Focused on delivering clean, production-ready solutions with modern tools, strong architecture, and high developer standards.
 
-📍 Hyderabad, India | 📧 [syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)
+📍 Hyderabad, India  
+📧 **syedomerali2006@gmail.com**  
+🌐 **https://syedomer.me**
 
 ---
 
-## 👋 About Me
-
-Full-Stack Developer from Hyderabad, India, passionate about building innovative web applications. Currently exploring AI/ML integration, Next.js, and DevOps while working on full-stack projects using the MERN stack. I focus on creating scalable, efficient solutions and am dedicated to continuous learning in modern web technologies and system design.
+# 🚀 What I Do
+- Architect full-stack applications using **TypeScript**, **Next.js**, **Node.js**, **MongoDB**, and **Prisma**
+- Build backend systems with clean folder structures, scalable APIs, and service-based design
+- Work with **DevOps fundamentals**: Docker, CI/CD, Nginx, Linux, GitHub Actions, Ansible
+- Integrate **AI/ML APIs** into real-world products
+- Focus on **performance**, **security**, and **developer experience**
 
 ---
 
@@ -19,18 +26,16 @@ Full-Stack Developer from Hyderabad, India, passionate about building innovative
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js, NestJS, Fastify |
 | **Databases** | MongoDB, MySQL, PostgreSQL, PrismaDB |
-| **DevOps & Tools** | Docker, kubernetes, jenkins, GitHub Actions Linux, Nginx, Git, GitHub, Anisable, Maven, |
+| **DevOps & Tools** | Docker, Kubernetes, jenkins, GitHub Actions Linux, Nginx, Git, GitHub, Ansible, Maven, |
 | **Languages** | JavaScript, TypeScript, Python, C |
 
 ---
 
-## 🎯 Current Focus
-
-- Building full-stack applications with **Next.js**, **TypeScript**, and **React**
-- Developing backend systems with **Node.js**, **NestJS**, and **Prisma**
-- Integrating **AI/ML** features into web applications
-- Learning **DevOps** practices and **Cloud Infrastructure**
-- Exploring **Backend Architecture** and **System Design**
+# 🎯 Current Focus (2025)
+- **Next.js 15**, Server Actions, RSC  
+- **Backend Engineering**: Fastify, NestJS, Prisma  
+- **DevOps**: Docker, GitHub Actions, Nginx, Linux  
+- **System Design**: Caching, queues, load balancing  
 
 ---
 
