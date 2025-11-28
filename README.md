@@ -23,7 +23,7 @@ Focused on delivering clean, production-ready solutions with modern tools, stron
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3 |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3, shadcn, MUI |
 | **Backend** | Node.js, Express.js, NestJS, Fastify |
 | **Databases** | MongoDB, MySQL, PostgreSQL, PrismaDB |
 | **DevOps & Tools** | Docker, Kubernetes, jenkins, GitHub Actions Linux, Nginx, Git, GitHub, Ansible, Maven, |
