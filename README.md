@@ -1,5 +1,6 @@
 # 👋 Hey, I'm **Syed Omer Ali**
 
+
 **Full-Stack Developer • DevOps Learner • AI/ML Explorer**  
 I build scalable web applications, automate workflows, and experiment with intelligent systems.  
 Focused on delivering clean, production-ready solutions with modern tools, strong architecture, and high developer standards.
