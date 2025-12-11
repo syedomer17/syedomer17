@@ -61,7 +61,7 @@ A comprehensive expense tracking application to manage finances with receipt sca
 **Tech Stack:** React, Node.js, Express, MongoDB, TailwindCSS, Shadcn/ui  
 **Features:** Expense tracking, receipt uploads, PDF export, analytics dashboard
 
-### 🎤 [AI Interview App](https://github.com/syedomer17/AI-Interview-App)
+### 🎤 [AI Interview App](https://github.com/syedomer17/AI-Powered-Interview-Assistant)
 AI-powered mock interview platform with real-time feedback and performance analysis.  
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, AI Integration  
 **Features:** Mock interviews, real-time feedback, performance tracking
