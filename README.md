@@ -8,7 +8,6 @@ Focused on delivering clean, production-ready solutions with modern tools, stron
 📧 **syedomerali2006@gmail.com**  
 🌐 **https://syedomer.me**
 
-
 ---
 
 # 🚀 What I Do
