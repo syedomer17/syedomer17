@@ -48,47 +48,82 @@ My work spans frontend, backend, infrastructure, and applied AI — with an emph
 ## 🚀 Selected Projects
 
 ### 🏋️ AI-Powered Personal Trainer
-
+**Description:**  
 AI-driven workout planner with personalized insights and progress tracking.
-**Stack:** Next.js, TypeScript, TailwindCSS, shadcn/ui, Auth.js
-**Highlights:** Personalized plans, analytics, AI recommendations
-🔗 [https://github.com/syedomer17/Next.js-AI-fitness-App](https://github.com/syedomer17/Next.js-AI-fitness-App)
+
+**Tech Stack:**  
+Next.js · TypeScript · TailwindCSS · shadcn/ui · Auth.js
+
+**Key Highlights:**  
+- Personalized workout plans  
+- Progress analytics  
+- AI-driven recommendations  
+
+🔗 **Repository:** https://github.com/syedomer17/Next.js-AI-fitness-App
 
 ---
 
 ### 📄 AI Resume Builder
-
+**Description:**  
 Resume builder with AI-generated content and real-time previews.
-**Stack:** Next.js, TypeScript, TailwindCSS, Framer Motion
-**Highlights:** Dynamic templates, AI suggestions, export support
-🔗 [https://github.com/syedomer17/AI-powered-resume](https://github.com/syedomer17/AI-powered-resume)
+
+**Tech Stack:**  
+Next.js · TypeScript · TailwindCSS · Framer Motion
+
+**Key Highlights:**  
+- Dynamic templates  
+- AI content suggestions  
+- Export-ready resumes  
+
+🔗 **Repository:** https://github.com/syedomer17/AI-powered-resume
 
 ---
 
 ### 🔍 GitHub Gist Explorer
-
+**Description:**  
 Advanced GitHub Gist search and management tool.
-**Stack:** Next.js, TypeScript, TailwindCSS
-**Highlights:** Filtering, syntax highlighting, responsive UI
-🔗 [https://github.com/syedomer17/Next.js-gist-search](https://github.com/syedomer17/Next.js-gist-search)
+
+**Tech Stack:**  
+Next.js · TypeScript · TailwindCSS
+
+**Key Highlights:**  
+- Advanced filtering  
+- Syntax highlighting  
+- Responsive UI  
+
+🔗 **Repository:** https://github.com/syedomer17/Next.js-gist-search
 
 ---
 
 ### 🤖 Automated GitHub PR Review Agent
+**Description:**  
+AI-powered multi-agent system for automated pull request reviews.
 
-Multi-agent system for automated pull request reviews using AI.
-**Stack:** Node.js, TypeScript, MongoDB, Google Gemini API
-**Highlights:** Diff analysis, security checks, performance feedback
-🔗 [https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent](https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent)
+**Tech Stack:**  
+Node.js · TypeScript · MongoDB · Google Gemini API
+
+**Key Highlights:**  
+- Diff analysis  
+- Security & performance checks  
+- Actionable review feedback  
+
+🔗 **Repository:** https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent
 
 ---
 
 ### 🌐 Nginx Config Generator
+**Description:**  
+Generate and validate Nginx server configurations for custom domains.
 
-Tool to generate validated Nginx configurations for custom domains.
-**Stack:** Next.js, TypeScript, TailwindCSS
-**Highlights:** Interactive builder, config validation
-🔗 [https://github.com/syedomer17/Next.js-nginx-config-generator](https://github.com/syedomer17/Next.js-nginx-config-generator)
+**Tech Stack:**  
+Next.js · TypeScript · TailwindCSS
+
+**Key Highlights:**  
+- Interactive configuration builder  
+- Validation & error handling  
+- Downloadable configs  
+
+🔗 **Repository:** https://github.com/syedomer17/Next.js-nginx-config-generator
 
 ---
 
