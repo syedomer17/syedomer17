@@ -1,84 +1,98 @@
-# 👋 Hey, I'm **Syed Omer Ali**
+# 👋 Hi, I’m **Syed Omer Ali**
 
-**Full-Stack Developer • DevOps Learner • AI/ML Explorer**  
-I build scalable web applications, automate workflows, and experiment with intelligent systems.  
-Focused on delivering clean, production-ready solutions with modern tools, strong architecture, and high developer standards.
+**Full-Stack Engineer | Backend & DevOps Oriented**
 
-📍 Hyderabad, India  
-📧 **syedomerali2006@gmail.com**  
-🌐 **https://syedomer.me**
+I build **production-grade web systems** with a focus on clean architecture, scalability, and automation.
+My work spans frontend, backend, infrastructure, and applied AI — with an emphasis on **maintainability over hype**.
+
+📍 Hyderabad, India
+📧 **[syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)**
+🌐 **[https://syedomer.me](https://syedomer.me)**
 
 ---
 
-# 🚀 What I Do
-- Architect full-stack applications using **TypeScript**, **Next.js**, **Node.js**, **MongoDB**, and **Prisma**
-- Build backend systems with clean folder structures, scalable APIs, and service-based design
-- Work with **DevOps fundamentals**: Docker, CI/CD, Nginx, Linux, GitHub Actions, Ansible
-- Integrate **AI/ML APIs** into real-world products
-- Focus on **performance**, **security**, and **developer experience**
+## 🧠 What I Work On
+
+* Designing and building **full-stack applications** using TypeScript and React ecosystems
+* Developing **scalable backend services** with clear domain boundaries
+* Working with **relational & NoSQL databases**, performance tuning, and migrations
+* Applying **DevOps fundamentals**: containerization, CI/CD, Linux servers, reverse proxies
+* Integrating **AI-powered features** into real-world products
+* Prioritizing **performance, security, and developer experience**
 
 ---
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3, shadcn, MUI |
-| **Backend** | Node.js, Express.js, NestJS, Fastify |
-| **Databases** | MongoDB, MySQL, PostgreSQL, PrismaDB |
-| **DevOps & Tools** | Docker, Kubernetes, jenkins, GitHub Actions Linux, Nginx, Git, GitHub, Ansible, Maven, |
-| **Languages** | JavaScript, TypeScript, Python, C |
+| Area          | Technologies                                       |
+| ------------- | -------------------------------------------------- |
+| **Frontend**  | React, Next.js, TypeScript, TailwindCSS, shadcn/ui |
+| **Backend**   | Node.js, Express.js, Fastify, NestJS               |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Prisma                 |
+| **DevOps**    | Docker, Kubernetes, GitHub Actions,  Linux, Ansible      |
+| **Languages** | TypeScript, JavaScript, Python, C                  |
+
+> Tools listed here are **used in real projects**, not just experimented with.
 
 ---
 
-# 🎯 Current Focus (2025)
-- **Next.js 15**, Server Actions, RSC  
-- **Backend Engineering**: Fastify, NestJS, Prisma  
-- **DevOps**: Docker, GitHub Actions, Nginx, Linux  
-- **System Design**: Caching, queues, load balancing  
+## 🎯 Current Focus
+
+* Building applications with **Next.js (App Router, RSC, Server Actions)**
+* Backend engineering using **Fastify**, **NestJS**, and **Prisma**
+* Improving deployment workflows with **Docker** and **GitHub Actions**
+* Applying system design fundamentals: **caching, background jobs, load balancing**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🏋️‍♂️ [AI-Powered Personal Trainer](https://github.com/syedomer17/Next.js-AI-fitness-App)
-AI-based workout planner with personalized training insights and real-time form analysis.  
-**Tech Stack:** Next.js, TypeScript, Shadcn/ui, TailwindCSS, Auth.js  
-**Features:** Custom workout plans, progress tracking, AI recommendations
+### 🏋️ AI-Powered Personal Trainer
 
-### 📄 [AI Resume Builder](https://github.com/syedomer17/AI-powered-resume)
-Intelligent resume builder powered by AI with dynamic templates and real-time preview.  
-**Tech Stack:** Next.js, TypeScript, Shadcn/ui, TailwindCSS, Auth.js, Framer Motion  
-**Features:** AI content suggestions, multiple templates, export options
-
-### 🔍 [GitHub Gist Explorer](https://github.com/syedomer17/Next.js-gist-search)
-Modern GitHub Gist search and management application with advanced filtering.  
-**Tech Stack:** Next.js, TypeScript, Shadcn/ui, TailwindCSS, Auth.js  
-**Features:** Advanced search, syntax highlighting, responsive design
-
-### 💰 [Expense Tracker App](https://github.com/syedomer17/Expense-Tracker-App)
-A comprehensive expense tracking application to manage finances with receipt scanning and PDF exports.  
-**Tech Stack:** React, Node.js, Express, MongoDB, TailwindCSS, Shadcn/ui  
-**Features:** Expense tracking, receipt uploads, PDF export, analytics dashboard
-
-### 🎤 [AI Interview App](https://github.com/syedomer17/AI-Powered-Interview-Assistant)
-AI-powered mock interview platform with real-time feedback and performance analysis.  
-**Tech Stack:** Next.js, TypeScript, TailwindCSS, AI Integration  
-**Features:** Mock interviews, real-time feedback, performance tracking
-
-### 🤖 [Automated GitHub Pull Request Review Agent](https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent)
-Intelligent multi-agent system for automated code reviews using Google Gemini.  
-**Tech Stack:** React, Node.js, TypeScript, MongoDB, Google Gemini API  
-**Features:** Automated diff analysis, security & performance checks, interactive dashboard
-
-### 🌐 [Nginx Config Generator](https://github.com/syedomer17/Next.js-nginx-config-generator)
-Generate Nginx server configurations for your domain and port with validation.  
-**Tech Stack:** Next.js, TypeScript, TailwindCSS, Framer Motion  
-**Features:** Interactive builder, validation, download configs
+AI-driven workout planner with personalized insights and progress tracking.
+**Stack:** Next.js, TypeScript, TailwindCSS, shadcn/ui, Auth.js
+**Highlights:** Personalized plans, analytics, AI recommendations
+🔗 [https://github.com/syedomer17/Next.js-AI-fitness-App](https://github.com/syedomer17/Next.js-AI-fitness-App)
 
 ---
 
-## 📊 GitHub Stats
+### 📄 AI Resume Builder
+
+Resume builder with AI-generated content and real-time previews.
+**Stack:** Next.js, TypeScript, TailwindCSS, Framer Motion
+**Highlights:** Dynamic templates, AI suggestions, export support
+🔗 [https://github.com/syedomer17/AI-powered-resume](https://github.com/syedomer17/AI-powered-resume)
+
+---
+
+### 🔍 GitHub Gist Explorer
+
+Advanced GitHub Gist search and management tool.
+**Stack:** Next.js, TypeScript, TailwindCSS
+**Highlights:** Filtering, syntax highlighting, responsive UI
+🔗 [https://github.com/syedomer17/Next.js-gist-search](https://github.com/syedomer17/Next.js-gist-search)
+
+---
+
+### 🤖 Automated GitHub PR Review Agent
+
+Multi-agent system for automated pull request reviews using AI.
+**Stack:** Node.js, TypeScript, MongoDB, Google Gemini API
+**Highlights:** Diff analysis, security checks, performance feedback
+🔗 [https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent](https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent)
+
+---
+
+### 🌐 Nginx Config Generator
+
+Tool to generate validated Nginx configurations for custom domains.
+**Stack:** Next.js, TypeScript, TailwindCSS
+**Highlights:** Interactive builder, config validation
+🔗 [https://github.com/syedomer17/Next.js-nginx-config-generator](https://github.com/syedomer17/Next.js-nginx-config-generator)
+
+---
+
+## 📊 GitHub Activity
 
 <table width="100%">
   <tr>
@@ -104,9 +118,10 @@ Generate Nginx server configurations for your domain and port with validation.
   </tr>
 </table>
 
+
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -115,4 +130,6 @@ Generate Nginx server configurations for your domain and port with validation.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SyedOmer17Ali)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedomerali2006@gmail.com)
 
+
 </div>
+
