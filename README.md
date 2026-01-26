@@ -47,83 +47,79 @@ My work spans frontend, backend, infrastructure, and applied AI — with an emph
 
 ## 🚀 Selected Projects
 
-### 🏋️ AI-Powered Personal Trainer
-**Description:**  
-AI-driven workout planner with personalized insights and progress tracking.
-
-**Tech Stack:**  
-Next.js · TypeScript · TailwindCSS · shadcn/ui · Auth.js
-
-**Key Highlights:**  
-- Personalized workout plans  
-- Progress analytics  
-- AI-driven recommendations  
-
-🔗 **Repository:** https://github.com/syedomer17/Next.js-AI-fitness-App
-
----
-
-### 📄 AI Resume Builder
-**Description:**  
-Resume builder with AI-generated content and real-time previews.
-
-**Tech Stack:**  
-Next.js · TypeScript · TailwindCSS · Framer Motion
-
-**Key Highlights:**  
-- Dynamic templates  
-- AI content suggestions  
-- Export-ready resumes  
-
-🔗 **Repository:** https://github.com/syedomer17/AI-powered-resume
-
----
-
-### 🔍 GitHub Gist Explorer
-**Description:**  
-Advanced GitHub Gist search and management tool.
-
-**Tech Stack:**  
-Next.js · TypeScript · TailwindCSS
-
-**Key Highlights:**  
-- Advanced filtering  
-- Syntax highlighting  
-- Responsive UI  
-
-🔗 **Repository:** https://github.com/syedomer17/Next.js-gist-search
-
----
-
-### 🤖 Automated GitHub PR Review Agent
-**Description:**  
-AI-powered multi-agent system for automated pull request reviews.
-
-**Tech Stack:**  
-Node.js · TypeScript · MongoDB · Google Gemini API
-
-**Key Highlights:**  
-- Diff analysis  
-- Security & performance checks  
-- Actionable review feedback  
-
-🔗 **Repository:** https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent
-
----
-
-### 🌐 Nginx Config Generator
-**Description:**  
-Generate and validate Nginx server configurations for custom domains.
-
-**Tech Stack:**  
-Next.js · TypeScript · TailwindCSS
-
-**Key Highlights:**  
-- Interactive configuration builder  
-- Validation & error handling  
-- Downloadable configs  
-
-🔗 **Repository:** https://github.com/syedomer17/Next.js-nginx-config-generator
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏋️ AI-Powered Personal Trainer</h3>
+      <p>AI-driven workout planner with personalized insights and progress tracking.</p>
+      <p><strong>Tech:</strong> Next.js • TypeScript • TailwindCSS • shadcn/ui • Auth.js</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-Success?style=for-the-badge&logoColor=white&color=2ea44f" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/syedomer17/Next.js-AI-fitness-App">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📄 AI Resume Builder</h3>
+      <p>Resume builder with AI-generated content and real-time previews.</p>
+      <p><strong>Tech:</strong> Next.js • TypeScript • TailwindCSS • Framer Motion</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-Success?style=for-the-badge&logoColor=white&color=2ea44f" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/syedomer17/AI-powered-resume">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔍 GitHub Gist Explorer</h3>
+      <p>Advanced GitHub Gist search and management tool with syntax highlighting.</p>
+      <p><strong>Tech:</strong> Next.js • TypeScript • TailwindCSS</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-Success?style=for-the-badge&logoColor=white&color=2ea44f" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/syedomer17/Next.js-gist-search">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 Automated PR Review Agent</h3>
+      <p>AI-powered multi-agent system for automated pull request reviews and security checks.</p>
+      <p><strong>Tech:</strong> Node.js • TypeScript • MongoDB • Google Gemini API</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-Success?style=for-the-badge&logoColor=white&color=2ea44f" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/syedomer17/Automated_GitHub_Pull_Request_Review_Agent">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Nginx Config Generator</h3>
+      <p>Generate and validate Nginx server configurations for custom domains.</p>
+      <p><strong>Tech:</strong> Next.js • TypeScript • TailwindCSS</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live%20Demo-Success?style=for-the-badge&logoColor=white&color=2ea44f" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/syedomer17/Next.js-nginx-config-generator">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">&nbsp;</td> </tr>
+</table>
 
 ---
 
