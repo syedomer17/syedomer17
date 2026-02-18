@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m **Syed Omer Ali**
 
 **Full-Stack Engineer | Backend & DevOps Oriented**
