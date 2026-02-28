@@ -1,6 +1,5 @@
 # 👋 Hi, I’m **Syed Omer Ali**
 
-
 **Full-Stack Engineer | Backend & DevOps Oriented**
 
 I build **production-grade web systems** with a focus on clean architecture, scalability, and automation.
