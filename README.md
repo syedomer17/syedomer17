@@ -7,7 +7,7 @@ My work spans frontend, backend, infrastructure, and applied AI — with an emph
 
 📍 Hyderabad, India
 📧 **[syedomerali2006@gmail.com](mailto:syedomerali2006@gmail.com)**
-🌐 **[https://syedomer.me](https://syedomer.me)**
+🌐 **[https://syedomer.me](https://www.syedomer.me)**
 
 ---
 
