@@ -182,8 +182,8 @@ Shipping products that are reliable, observable, and maintainable as they grow.
 
 ```yaml
 areas:
-  - Next.js App Router · RSC · Server Actions
-  - Backend: Fastify, NestJS, Prisma ORM
+  - SEO · DBMS · Security  
+  - Backend: go, Prisma ORM
   - DevOps: Docker, GitHub Actions, automated deployments
   - System Design: caching, background jobs, load balancing
 
