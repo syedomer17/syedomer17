@@ -128,7 +128,7 @@ Shipping products that are reliable, observable, and maintainable as they grow.
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       </p>
-      <a href="https://github.com/syedomer17">
+      <a href="https://github.com/syedomer17/AI-Powered-Interview-Assistant">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
