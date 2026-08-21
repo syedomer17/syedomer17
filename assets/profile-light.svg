@@ -171,7 +171,7 @@
 
     <!-- Contributions (Dynamic) -->
     <text x="575" y="474" class="text-accent">Contributions (1Y)<tspan class="text-dots">....................</tspan></text>
-    <text id="contributions" x="900" y="474" class="text-main" text-anchor="end">1,686</text>
+    <text id="contributions" x="900" y="474" class="text-main" text-anchor="end">1,688</text>
   </g>
 
   <!-- Divider 3 -->
