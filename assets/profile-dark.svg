@@ -163,15 +163,15 @@
   <g class="mono" font-size="12">
     <!-- Repos (Dynamic) -->
     <text x="575" y="430" class="text-accent">Repositories<tspan class="text-dots">..........................</tspan></text>
-    <text id="repos" x="900" y="430" class="text-main" text-anchor="end">145</text>
+    <text id="repos" x="900" y="430" class="text-main" text-anchor="end">146</text>
 
     <!-- Stars (Dynamic) -->
     <text x="575" y="452" class="text-accent">Stars<tspan class="text-dots">.................................</tspan></text>
-    <text id="stars" x="900" y="452" class="text-main" text-anchor="end">34</text>
+    <text id="stars" x="900" y="452" class="text-main" text-anchor="end">33</text>
 
     <!-- Contributions (Dynamic) -->
     <text id="contributions_label" x="575" y="474" class="text-accent">Contributions (3 Years)<tspan class="text-dots">...............</tspan></text>
-    <text id="contributions" x="900" y="474" class="text-main" text-anchor="end">3,157</text>
+    <text id="contributions" x="900" y="474" class="text-main" text-anchor="end">3,158</text>
   </g>
 
   <!-- Divider 3 -->
